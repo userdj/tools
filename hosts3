@@ -1070,16 +1070,16 @@
 127.0.0.1 app.adjust.com
 127.0.0.1 cdn.wetest.qq.com
 127.0.0.1 android.bugly.qq.com
-127.0.0.1 tencentgames.helpshift.com 
+127.0.0.1 tencentgames.helpshift.com
 127.0.0.1 dlied1.qq.com
 127.0.0.1 cloud.gsdk.proximabeta.com:18081
 127.0.0.1 down.qq.com
 127.0.0.1 pingma.qq.com:80
-127.0.0.1 hkconfig.gcloud.qq.com 
+127.0.0.1 hkconfig.gcloud.qq.com
 127.0.0.1 vmp.qq.com
 127.0.0.1 oth.eve.mdt.qq.com:8080
-127.0.0.1 idcconfig.gcloud.qq.com 
-127.0.0.1 szmg.qq.com 
+127.0.0.1 idcconfig.gcloud.qq.com
+127.0.0.1 szmg.qq.com
 127.0.0.1 down.qq.com
 127.0.0.1 dlied.qq.com
 127.0.0.1 dlied1.qq.com
@@ -1416,7 +1416,7 @@
 127.0.0.1 182.254.116.117
 127.0.0.1 ig-us-sdkapi.igamecj.com
 127.0.0.1 hkconfig.gcloud.qq.com
-127.0.0.1 ig-us-notice.igamecj.com 
+127.0.0.1 ig-us-notice.igamecj.com
 127.0.0.1 pingma.qq.com
 127.0.0.1 pingma.qq.com:80
 127.0.0.1 dlied1.qq.com
@@ -3601,6 +3601,3 @@ ocsp2.globalsign.com
 127.0.0.1   cdn.wetest.qq.com
 127.0.0.1   android.bugly.qq.com
 
-
-
-ᴅᴀʀᴋsᴘᴇᴄᴛʀᴇ ᴇsᴘᴏʀᴛs
